@@ -1,4 +1,4 @@
-﻿namespace _9._EnterNOnTheConsole
+﻿namespace EnterNOnTheConsole
 {
     internal class Program
     {

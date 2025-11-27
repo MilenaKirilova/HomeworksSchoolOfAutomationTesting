@@ -9,13 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers1To10WithForLoop", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNamesInArrayForeachLoop", "PrintNamesInArrayForeachLoop\PrintNamesInArrayForeachLoop.csproj", "{AD8FA64F-103D-409E-BD4D-40499BF111B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1toNWithWhileLoop", "8. NumbersFrom1toNWithWhileLoop\NumbersFrom1toNWithWhileLoop.csproj", "{9F88E9C5-79EC-4526-9238-FD5CEA720053}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1toNWithWhileLoop", "NumbersFrom1toNWithWhileLoop\NumbersFrom1toNWithWhileLoop.csproj", "{9F88E9C5-79EC-4526-9238-FD5CEA720053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNOnTheConsole", "9. EnterNOnTheConsole\EnterNOnTheConsole.csproj", "{9542608D-8B39-4B0F-868C-01C2B31FC50F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNOnTheConsole", "EnterNOnTheConsole\EnterNOnTheConsole.csproj", "{9542608D-8B39-4B0F-868C-01C2B31FC50F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable1To5WithNestedLoops", "10. MultiplicationTable1To5WithNestedLoops\MultiplicationTable1To5WithNestedLoops.csproj", "{FCAB6332-BFB1-47E3-89D7-EB34FD89BA38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable1To5WithNestedLoops", "MultiplicationTable1To5WithNestedLoops\MultiplicationTable1To5WithNestedLoops.csproj", "{FCAB6332-BFB1-47E3-89D7-EB34FD89BA38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryNumbers1ToN", "11. PrimaryNumbers1ToN\PrimaryNumbers1ToN.csproj", "{BDCAD5CF-6C38-4AB0-80CC-BE31AEAD9693}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryNumbers1ToN", "PrimaryNumbers1ToN\PrimaryNumbers1ToN.csproj", "{BDCAD5CF-6C38-4AB0-80CC-BE31AEAD9693}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus", "Bonus\Bonus.csproj", "{752E5952-F670-4AD2-8E04-743CD8D77092}"
 EndProject

@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace _10._MultiplicationTable1To5WithNestedLoops
+namespace MultiplicationTable1To5WithNestedLoops
 {
     internal class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace _11._PrimaryNumbers1ToN
+﻿namespace PrimaryNumbers1ToN
 {
     internal class Program
     {

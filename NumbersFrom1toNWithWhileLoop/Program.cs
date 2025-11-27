@@ -1,4 +1,4 @@
-﻿namespace _8._NumbersFrom1toNWithWhileLoop
+﻿namespace NumbersFrom1toNWithWhileLoop
 {
     internal class Program
     {
